@@ -29,14 +29,14 @@ TimeTracker leverages the SQLAlchemy library to store data in an SQLite database
 - Pip (Python package installer)
 - Install SQLAlchemy:
    ```bash
-   python timetracker.py
+   pip install sqlalchemy
    ```
 
 ## Usage
 
 1. Run the script:
    ```bash
-   pip install sqlalchemy
+   python timetracker.py
    ```
 2. Select options based on your needs:
 - Start timer (1)
